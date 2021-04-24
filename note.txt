@@ -10,3 +10,6 @@ Now our work will continue locally
 2. committed the change to the local repo
 3. We want this change to be reflected in remote repository so we pushed local commits to remote repository using push origin method
 4. Observe it has been added in your repository under GitHub.com
+
+How to save changes made to this repo
+press ctrl + s at the same time
