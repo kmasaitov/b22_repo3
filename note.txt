@@ -13,3 +13,6 @@ Now our work will continue locally
 
 How to save changes made to this repo
 press ctrl + s at the same time
+
+We do not have to one commit at a time
+We can push multiple commits at the same time
