@@ -16,3 +16,5 @@ press ctrl + s at the same time
 
 We do not have to one commit at a time
 We can push multiple commits at the same time
+There is no limit how many commits you can pus
+
